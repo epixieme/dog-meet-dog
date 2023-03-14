@@ -1,6 +1,8 @@
 # dog-meet-dog
 <section>
   <h1>Dog Meet Dog</h1>
+  <img width="749" alt="dmd" src="https://user-images.githubusercontent.com/39728053/225085928-eeb7207b-97ef-4d17-ad7f-289764687eb0.png">
+
 
   <p>Dog Meet Dog is a full stack application created with React, PostGresSQL, Node.js.</p>
 
